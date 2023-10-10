@@ -18,7 +18,7 @@ chkconfig httpd on
 echo "hai all this is my app created by terraform infrastructurte by raham sir server-1" > /var/www/html/index.html
 EOF
   tags = {
-    Name = "web-server-1"
+    Name = "web-server-001"
   }
 }
 
